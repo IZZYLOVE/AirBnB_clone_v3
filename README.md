@@ -151,13 +151,13 @@ EOF  all  create  destroy  help  quit  show  update
 ```
 
 ## Bugs
-No known bugs at this time. 
+No known bugs at this time `yet`. 
 
 ## Authors
 Kingdom Adele - [Github](https://github.com/IZZYLOVE)
 Anoliefo Onyedika - [Github](https://github.com/DevMaxwell)
 
-Second part of Airbnb: Joann Vuong
+
 ## License
 Public Domain. No copy write protection. 
 
