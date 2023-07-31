@@ -156,8 +156,6 @@ No known bugs at this time `yet`.
 ## Authors
 Kingdom Adele - [Github](https://github.com/IZZYLOVE)
 Anoliefo Onyedika - [Github](https://github.com/DevMaxwell)
-
-
 ## License
 Public Domain. No copy write protection. 
 
